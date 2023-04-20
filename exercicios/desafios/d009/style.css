@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+    background-color: black;
+    
+}
+h1 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img {
+   display: block;margin-left: 20%;margin-right: auto;
+}
